@@ -1,0 +1,10 @@
+}
+header
+{
+    background: #353637;
+    color:#ffffff;
+    padding-top: 80px;
+    min-height: 20px;
+    border-bottom: #32a0c2 5px solid;
+
+}
